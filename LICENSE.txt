@@ -1,0 +1,2 @@
+## License
+Proprietary source code. All rights reserved to Ramon Durães. Use without permission is prohibited.
